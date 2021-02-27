@@ -69,3 +69,11 @@ footer {
   article h3 { margin: 10px 0 20px 0; }
   article p { margin-top: 16px; line-height: 20px; }
 }
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
